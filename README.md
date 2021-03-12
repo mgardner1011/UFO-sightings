@@ -33,7 +33,7 @@ Basic analysis of the data, finding the state and year with the most sightings, 
 
 ## Visualization<br>
 
-**Tableau Dashboard:** https://public.tableau.com/profile/michael.gardner2455#!/vizhome/UFOSightings_16155084184750/UFOSighting
+**Tableau Dashboard:** https://public.tableau.com/profile/michael.gardner2455#!/
 
 ---
 
