@@ -41,7 +41,7 @@ Basic analysis of the data, finding the state and year with the most sightings, 
 
 From working with this data a few conclusions can be drawn from the data. First, the USA has the most sightings by far of any of country in the data set.
 This could be due to the popularity of Area 51, although New Mexico is far lower in sightings than one would think. One could also argue that due to Area 51, there is
-a cultural interest in extraterritorials and paranormal activities. The major difference could also be due to a possible lack of ability to report in other countries,
+a cultural interest in extraterrestrials and paranormal activities. The major difference could also be due to a possible lack of ability to report in other countries,
 depending on how the data was gathered.<br>
 
 The second interesting find in this data is in the shape of the sightings, with light as the most popular shape. The second most popular is the combined unknown/other shape.
